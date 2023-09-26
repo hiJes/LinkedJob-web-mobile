@@ -1,0 +1,214 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin1",
+      "email": "admin1@mail.com",
+      "password": "123456",
+      "role": "admin",
+      "phoneNumber": "+44 386 744 5528",
+      "address": "326 Northwestern Drive"
+    },
+    {
+      "id": 2,
+      "username": "user1",
+      "email": "user1@mail.com",
+      "password": "123456",
+      "role": "user",
+      "phoneNumber": "+46 198 146 9449",
+      "address": "352 Main Lane"
+    },
+    {
+      "username": "admin2",
+      "email": "admin2@mail.com",
+      "password": "123456",
+      "role": "admin",
+      "phoneNumber": "+86 106 321 5738",
+      "address": "49203 Sherman Circle",
+      "id": 3
+    },
+    {
+      "username": "admin3",
+      "email": "admin3@mail.com",
+      "password": "123456",
+      "role": "admin",
+      "phoneNumber": "+62 951 492 7321",
+      "address": "77582 Messerschmidt Road",
+      "id": 4
+    },
+    {
+      "username": "admin4",
+      "email": "admin4@mail.com",
+      "password": "123456",
+      "role": "admin",
+      "phoneNumber": "+963 455 685 2490",
+      "address": "43 Granby Road",
+      "id": 5
+    },
+    {
+      "username": "admin5",
+      "email": "admin5@gmail.com",
+      "password": "123456",
+      "role": "admin",
+      "phoneNumber": "082212345678",
+      "address": "Boulevard No 66",
+      "id": 6
+    }
+  ],
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Laboratory Analyst - Banyuwangi",
+      "description": "- Responsible for carrying out laboratory activities in accordance with GLP, including sample receiving, sample labeling, and reporting of the analysis result in the laboratory.\n- Responsible for ensuring that customer data is valid, preparing the analysis result based on data that has been validated by Lab Analysts, and publishing the analysis report to the customer according to the schedule set.\n- Responsible for preparing the purchase request related to consumables material, reagent, also repair, maintenance, and calibration of laboratory equipment, as well as following up on the progress of this process until the activities are completed.\n- Responsible for maintaining cleanliness in the workplace.\n- Responsible for inputting the use of reagents and consumables during daily activities, reporting to superiors for any problems that occur related to inventory.\n- Responsible for ensuring stock of materials are always available, no expired materials/reagents, and immediately informs to direct superior for any problems that arise.\n- Responsible for inspection, rechecking, and reporting the stock of materials/reagents/consumables periodically.",
+      "companyId": 1,
+      "authorId": 1,
+      "jobType": "Contractual"
+    },
+    {
+      "id": 2,
+      "title": "Sales Executive B2B",
+      "description": "- Finding new customers/new accounts and doing negotiation\n- Mantain good relationship with customer\n- Ensure customer's order are well fulfilled (coordination with ordering and delivery team)\n- Monitor sales performance in each account\n- Ensure there is no outstanding payment from account\n- Expanding the networking to increase potential account database\n- Doing regular visit to existing account/customer",
+      "companyId": 2,
+      "authorId": 1,
+      "jobType": "Full time"
+    },
+    {
+      "id": 3,
+      "title": "Android Developer",
+      "description": "- Design and develop high-quality Android applications for our clients.\n- Work with the development team to integrate AI models and sensor data into the application.\n- Develop and integrate backend Node.js backends with the Android application.\n- Collaborate with UI/UX designers to create a user-friendly interface for the application.\n- Write clean and maintainable code that meets industry standards and best practices.\n- Use Room Database to create and manage local databases for the application.\n- Implement dependency injection with Hilt and Dagger to improve the application's performance and scalability.\n- Work with BLE and external SDKs to integrate hardware features into the application.",
+      "companyId": 3,
+      "authorId": 1,
+      "jobType": "Full time"
+    },
+    {
+      "title": "Risk Data Analyst Intern  ",
+      "description": "- Perform exploratory data analysis using VBA or other tools.\n- Present interesting findings of business operations performance to support key business stakeholders to drive business and strategic decisions.\n- Build self-serve and predictive data products such as dashboards and tables to reduce time to insights",
+      "companyId": 2,
+      "authorId": 1,
+      "jobType": "Full time",
+      "id": 4
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "Nusantics",
+      "companyLogo": "https://rec-data.kalibrr.com/www.kalibrr.com/logos/N5Q3LNEQZ5ALS5S36L7CD5EEEKHTQNYC7SD9FV9B-63442c7f.png",
+      "location": "32, Jalan Suryo, Jakarta Selatan 12180, Indonesia",
+      "email": "contact@nusantics.com",
+      "description": "Nusantics is a genomics application company founded in 2019 with the ever growing belief in the importance of Microbiome balance in life. We are focused in providing sustainable solutions through science and nature. We aspire to make microbiome and the importance of balanced living as a part of our lifestyle. We believe that sustainability is more than just recycling and recovery. Sustainability should start in our mind as consumers; to be conscious of everything that we do and consume."
+    },
+    {
+      "id": 2,
+      "name": "Great Giant Foods",
+      "companyLogo": "https://rec-data.kalibrr.com/www.kalibrr.com/logos/D775MZR9QRUCAF7G42D3T4B6FUNLTG4GB8W3YARV-615acd6c.png",
+      "location": "Sequis Tower, Jalan Jenderal Sudirman, Jakarta 10210, Indonesia",
+      "email": "contact@gg-foods.com",
+      "description": "Making Food Great for the World's Growing Population.\nGreat Giant Foods (GGF) vision to become a modern manufacturing company, producing various agriculture and farming commodities, from fresh and canned fruits, to livestock products.\nToday, through its affiliates, partners, and representative offices in Asia, Europe, and the US, GGF delivers food products and agricultural commodities to the global market around the world.\nThe company's processing facilities are certified with domestic and international standard for food processing and safety. The products not only distribute in local market but exported to over 60 countries in Asia Pacific, North America, South America, Middle East and Europe.\nGreat Giant Foods has already been actively implementing green practices for over 30 years. And we learned that although there is a cost involved in going green, profits do not necessarily have to take a hit. We speak from experience, because in 10 short years, these green practices have boosted our yield per hectare by as much as 50%.\nGoing Green is a process, not a one-time project. At our plantation, nothing is wasted; every part is utilised. We are the original RRR production unit- and have earned our ‘green’ label by consistently implementing green measures across the board."
+    },
+    {
+      "id": 3,
+      "name": "Sinarmas Agribusiness and Food",
+      "companyLogo": "https://rec-data.kalibrr.com/www.kalibrr.com/logos/RC6GJ6HJEQUEHAR7NYQEEHV93FPNYLCEH4VH9UYJ-601a8d40.png",
+      "location": "Sinarmas MSIG Tower, Jalan Jendral Sudirman Kav 21, Setiabudi, Jakarta Selatan",
+      "email": "contact@gg-foods.com",
+      "description": "Sinar Mas Agribusiness and Food adalah perusahan agribisnis terkemuka dari hulu ke hillir mulai dari penanaman pohon kelapa sawit bersama petani, hingga memproduksi makanan dan energi untuk kebutuhan hari ini dan masa depan.\nSecara global, bisnis minyak sawit kami beroperasi di bawah naungan Golden Agri-Resources (GAR). Bersama-sama, kami mengelola produksi dari hulu ke hilir dengan prinsip keberlanjutan sebagai nilai utama yang kami yakini."
+    },
+    {
+      "name": "SUN Education Group",
+      "companyLogo": "https://rec-data.kalibrr.com/www.kalibrr.ph/logos/6CFT7CNSGMKC7T5M9V864VYUV7LWQ3TLXZNEATF7-5da872d7.png",
+      "location": "20, Jalan Meruya Ilir, Jakarta Barat 11620, Indonesia ",
+      "email": "",
+      "description": "SUN Education Group is the leading and the most complete international educational consultancy firm in Indonesia. Our core business is to provide services to students who want to study abroad particularly in Australia, New Zealand, Indonesia Pathway, UK, Switzerland, Singapore, Malaysia, China, Sweden, Ireland, Spain, Netherland, Italy, Canada and USA. We have 24 offices throughout Indonesia and have a global network of partners across the world.\n\nAs a successful, fast growing and innovative company, we are accelerating our growth within the market. We realize that our greatest asset is people and as such, we provide a challenging and  exciting environment for the best in the market.\n\nWith leaders that hold a clear vision for the future, along with a team full of diverse professionals, we are looking for young, energetic, dynamic and experienced people to fulfill our vacant positions.",
+      "id": 4
+    },
+    {
+      "name": "The Body Shop Indonesia",
+      "companyLogo": "https://rec-data.kalibrr.com/www.kalibrr.com/logos/RNAETL8M6GWETLKAC26U7ZU5GF8NYV763AQZV5V7-5fe9b2c1.png",
+      "location": "Tangerang Selatan, JABODETABEK, Indonesia",
+      "email": "care@thebodyshop.co.id",
+      "description": "“I want to work for a company that contributes to & is part of the community. I want something not just to invest in. I want something to believe in\" \nDame Anita Roddick (Founder of The Body Shop)\n\nWe believe true beauty comes from the heart. For us, beauty is much more than a pretty face. \n\nWe make our products with love and care. We source some of the finest raw ingredients from the four corners of the globe. We harness the skills of artisan farmers and add our expertise to create effective products that are wonderful to use.\n\nWe trade fairly so communities benefit as well as you. We never test on animals, and all our products are 100% vegetarian. We campaign with passion on issues close to our heart, because activism is in our blood. We always keep people, animals, and the planet in mind.\n\nThe Body Shop Indonesia has been around since 1992. We are consistently expanding to reach our customers and provide the best natural products as well as the best service for everyone. We have more than 150 stores across Indonesia, from West to East. In our stores, we love to make our customers feel at home and experience the delight of our products from head to toe. In our Home Office, we make our members feel comfortable and thus enable them to express their creativity and aspiration through their work. In The Body Shop, we make sure our employees are\nengaging with our values through voluntary social and environmental works.\n\nWe are an equal opportunity employer and value diversity at The Body Shop. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.\n\nOur Commitment:  WE EXIST TO FIGHT FOR A FAIRER AND MORE BEAUTIFUL WORLD. \n We don't just do business, we strive to make a change, for our neighborhood and for our planet. ",
+      "id": 5
+    },
+    {
+      "name": "PT. Pegadaian",
+      "companyLogo": "https://rec-data.kalibrr.com/www.kalibrr.com/logos/DKF35AU3AWSTT79JQ5RCWQM53BZXY7VUFV3WZN86-5d9b0f14.png",
+      "location": "Jl. Kramat Raya No.162, RT.1/RW.8, Kramat, Central Jakarta City, Jakarta 10430, Indonesia",
+      "email": "",
+      "description": "As a state-owned enterprise, Pegadaian has a long history which began in the 18th century when Vereenigde Oost Indische Companies (VOC), established Bank Van Leening, a credit institution extending on pawning system. Then the Dutch government issued Staadsblad no 131 dated 12th March 1901 that principally govern that establishment of pawnshop was monopolized and only government runs such business. In accordance with this law, the first state pawn shop was established in Sukabumi (West Java) on 1st April 1901.Thus, each 1st April is the anniversary of Pegadaian.\n\nNow, Pegadaian has transformed as a business entity which not only gives loans based on pawn but also other profitable business Until the end of 2020 there are more than 4000 Pegadaian branches spread across the Indonesian archipelago. The logo of Pegadaian the scales of justice. Pegadaian's motto is 'overcoming problems without problems'. Pegadaian have more than 1,6 Million customer and more than 14.000 employees. As a state-owned enterprise besides acting as business entity, Pegadaian also has an obligation to support government program in the effort to increase mid to low class society welfare through main activity of pawning credit distribution. This activities make Pegadaian a unique business entity. Conventional model of Pegadaian has operated since 1901. The first branch office in Sukabumi, west Java. \n\nSince 2018 Pegadaian transformation into Digital Financial Company. The journey of Pegadaian's transformation, which is currently + 2 years old, is felt to have contributed a lot to Pegadaian, both in terms of business cooperation with fintech companies, changes in mindset, changes in working methods as well as improvements in organizational governance that are not only in accordance with applicable standards but also lead to in the creation of an agile organization.",
+      "id": 6
+    },
+    {
+      "name": "Tokopedia",
+      "companyLogo": "https://rec-data.kalibrr.com/logos/XMKUEUMG9ZSNEJ59KZ4YBDD98REF6JFTPMJNYT8L-5bcd893e.png",
+      "location": "Tokopedia Tower Ciputra World 2, Jl. Prof. DR. Satrio No.Kav. 11, Karet Semanggi, Kecamatan Setiabudi, Daerah Khusus Ibukota Jakarta 12950",
+      "email": "",
+      "description": "Tokopedia is an Indonesian technology company with a mission to democratize commerce through technology. We are the leading marketplace in Indonesia; we encourage millions of merchants and consumers to participate in the future of commerce.\n\nOur vision is to build an ecosystem where everyone can start and discover anything with ease.\n\nWe are holding to these three principles that drive us forward. We call them our DNA, the traits that embody who we are as Tokopedia Nakama:  Focus on Consumer, Growth Mindset, and Make it Happen, Make it Better ",
+      "id": 7
+    },
+    {
+      "name": "Astra Credit Companies (ACC)",
+      "companyLogo": "https://rec-data.kalibrr.com/www.kalibrr.com/logos/TQLFU4QTP776BTQDB537LPSMLPDL7MYPMJTTVNHA-5cf0b969.png",
+      "location": "Jalan TB Simatupang Kav. 90. Jakarta Selatan. DKI Jakarta",
+      "email": "kontakacc@ai.astra.co.id",
+      "description": "Astra Credit Companies (ACC)  is a leading financial company in Indonesia since 1982. ACC was known as PT Raharja Sedaya, which transformed into PT Astra Sedaya Finance in 1990. In 1994, we proudly presented our brand as ACC.\n\nAs a part of Astra International, ACC fully commits to provide credit for a better living in 76 retail branches and 1 fleet outlet located on 58 cities in Indonesia. ACC currently has 5 business pillars : New Car Financing, Used Car Financing, Fleet Financing, Syariah Financing, and Multipurpose Financing. Moreover, ACC also supports more than 14,600 automobile dealers and cooperates with more than 76,000 payment points across the nation.",
+      "id": 8
+    }
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "jobId": 1,
+      "name": "Laboratory",
+      "level": "Intermediate"
+    },
+    {
+      "id": 2,
+      "jobId": 1,
+      "name": "Computer",
+      "level": "Intermediate"
+    },
+    {
+      "id": 3,
+      "jobId": 1,
+      "name": "Teamwork",
+      "level": "Intermediate"
+    },
+    {
+      "id": 4,
+      "jobId": 2,
+      "name": "Teamwork",
+      "level": "Intermediate"
+    },
+    {
+      "id": 4,
+      "jobId": 2,
+      "name": "Managerial",
+      "level": "Advance"
+    },
+    {
+      "id": 5,
+      "jobId": 2,
+      "name": "Communication",
+      "level": "Advance"
+    },
+    {
+      "id": 6,
+      "jobId": 3,
+      "name": "Java and Kotlin",
+      "level": "Advance"
+    },
+    {
+      "id": 7,
+      "jobId": 3,
+      "name": "Debugging",
+      "level": "Advance"
+    },
+    {
+      "id": 8,
+      "jobId": 3,
+      "name": "Collaboration",
+      "level": "Advance"
+    }
+  ]
+}

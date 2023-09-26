@@ -1,0 +1,10 @@
+export const JOBS_FETCH_REQUEST = "jobs/fetchRequest"
+export const JOBS_FETCH_SUCCESS = "jobs/fetchSuccess"
+export const JOBS_FETCH_FAILED = "jobs/fetchFailed"
+export const JOBS_DETAIL_REQUEST = "jobs/detailRequest"
+export const JOBS_DETAIL_SUCCESS = "jobs/detailSuccess"
+export const JOBS_DETAIL_FAILED = "jobs/detailFailed"
+
+export const COMPANIES_FETCH_REQUEST = "companies/fetchRequest"
+export const COMPANIES_FETCH_SUCCESS = "companies/fetchSuccess"
+export const COMPANIES_FETCH_FAILED = "companies/fetchFailed"

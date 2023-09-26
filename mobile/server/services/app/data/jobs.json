@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Laboratory Analyst - Banyuwangi",
+    "description": "- Responsible for carrying out laboratory activities in accordance with GLP, including sample receiving, sample labeling, and reporting of the analysis result in the laboratory.\n- Responsible for ensuring that customer data is valid, preparing the analysis result based on data that has been validated by Lab Analysts, and publishing the analysis report to the customer according to the schedule set.\n- Responsible for preparing the purchase request related to consumables material, reagent, also repair, maintenance, and calibration of laboratory equipment, as well as following up on the progress of this process until the activities are completed.\n- Responsible for maintaining cleanliness in the workplace.\n- Responsible for inputting the use of reagents and consumables during daily activities, reporting to superiors for any problems that occur related to inventory.\n- Responsible for ensuring stock of materials are always available, no expired materials/reagents, and immediately informs to direct superior for any problems that arise.\n- Responsible for inspection, rechecking, and reporting the stock of materials/reagents/consumables periodically.",
+    "companyId": 1,
+    "userMongoId": "6509b44692fbe400fcc9cd18",
+    "jobType": "Contractual"
+  },
+  {
+    "id": 2,
+    "title": "Sales Executive B2B",
+    "description": "- Finding new customers/new accounts and doing negotiation\n- Mantain good relationship with customer\n- Ensure customer's order are well fulfilled (coordination with ordering and delivery team)\n- Monitor sales performance in each account\n- Ensure there is no outstanding payment from account\n- Expanding the networking to increase potential account database\n- Doing regular visit to existing account/customer",
+    "companyId": 2,
+    "userMongoId": "6509b44692fbe400fcc9cd18",
+    "jobType": "Full time"
+  },
+  {
+    "id": 3,
+    "title": "Android Developer",
+    "description": "- Design and develop high-quality Android applications for our clients.\n- Work with the development team to integrate AI models and sensor data into the application.\n- Develop and integrate backend Node.js backends with the Android application.\n- Collaborate with UI/UX designers to create a user-friendly interface for the application.\n- Write clean and maintainable code that meets industry standards and best practices.\n- Use Room Database to create and manage local databases for the application.\n- Implement dependency injection with Hilt and Dagger to improve the application's performance and scalability.\n- Work with BLE and external SDKs to integrate hardware features into the application.",
+    "companyId": 3,
+    "userMongoId": "6509b44692fbe400fcc9cd18",
+    "jobType": "Full time"
+  },
+  {
+    "title": "Risk Data Analyst Intern  ",
+    "description": "- Perform exploratory data analysis using VBA or other tools.\n- Present interesting findings of business operations performance to support key business stakeholders to drive business and strategic decisions.\n- Build self-serve and predictive data products such as dashboards and tables to reduce time to insights",
+    "companyId": 2,
+    "userMongoId": "6509b44692fbe400fcc9cd18",
+    "jobType": "Full time",
+    "id": 4
+  }
+]

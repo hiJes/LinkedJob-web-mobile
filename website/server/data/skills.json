@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "jobId": 1,
+    "name": "Laboratory",
+    "level": "Intermediate"
+  },
+  {
+    "id": 2,
+    "jobId": 1,
+    "name": "Computer",
+    "level": "Intermediate"
+  },
+  {
+    "id": 3,
+    "jobId": 1,
+    "name": "Teamwork",
+    "level": "Intermediate"
+  },
+  {
+    "id": 4,
+    "jobId": 2,
+    "name": "Teamwork",
+    "level": "Intermediate"
+  },
+  {
+    "id": 4,
+    "jobId": 2,
+    "name": "Managerial",
+    "level": "Advance"
+  },
+  {
+    "id": 5,
+    "jobId": 2,
+    "name": "Communication",
+    "level": "Advance"
+  },
+  {
+    "id": 6,
+    "jobId": 3,
+    "name": "Java and Kotlin",
+    "level": "Advance"
+  },
+  {
+    "id": 7,
+    "jobId": 3,
+    "name": "Debugging",
+    "level": "Advance"
+  },
+  {
+    "id": 8,
+    "jobId": 3,
+    "name": "Collaboration",
+    "level": "Advance"
+  }
+]
